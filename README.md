@@ -21,3 +21,5 @@ App architecture is a must for appdev, datascience(dashboards,models,etc),and cy
 
 
 feel free to analyze my repository.
+
+note:i might add an architecture per server repository in my github.
